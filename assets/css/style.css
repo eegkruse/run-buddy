@@ -42,7 +42,9 @@ header nav ul li a {
   font-weight: lighter;
   font-size: 22px;
 }
+/* end header styles */
 
+/* begin footer styles */
 footer {
   background: #fce138;
   width: 100%;
@@ -65,6 +67,7 @@ footer div {
 footer a {
   color: #024e76;
 }
+/* end footer styles*/
 
 section {
   padding: 60px;
@@ -78,7 +81,9 @@ section {
   background-position: center;
   position: relative;
 }
+/* Hero Style End */
 
+/* begin hero form styles */
 .hero-form {
   color: #024e76;
   background-color: #fce138;
@@ -120,4 +125,4 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-/* Hero Style End */
+/* end hero form styles */
